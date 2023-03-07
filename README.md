@@ -4,7 +4,7 @@ Questionário Vaga de estágio Target Sistemas.
 
 <h2>Clique na imagem e entre no diretório para melhor visualização do código<h2>
 
-## Caso ocorra algum problema segue abaixo o código descrito;
+## Caso ocorra algum problema segue abaixo da imagem o código descrito;
 
 <a href="https://colab.research.google.com/drive/1JSKdP2Xo9tnrazEfjoCfjhbWgg6i_ZLL" target="_blank"><img src="https://user-images.githubusercontent.com/104304589/223461550-d7d75a8a-ace3-4637-a19f-c7f351e2edca.png" /></a>
 
